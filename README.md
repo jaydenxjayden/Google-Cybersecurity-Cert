@@ -35,5 +35,3 @@ Certificate for completing the course: <br>
   <img src="https://i.imgur.com/cPLleGt.png" height="60%" width="70%" alt="cert"/> <br>
   Skills: Computer Programming, Python Programming, Coding <br>
 
-
-<h2>Work in Progress... 👷</h2>
