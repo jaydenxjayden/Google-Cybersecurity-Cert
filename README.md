@@ -1,6 +1,7 @@
 <h1>Google-Cybersecurity-Cert</h1>
 
 <h2>My first certification in cybersecurity. I feel google has done an amazing job with this course and I have learnt a lot throughout the whole course. It is also highly recommended by the internet, when I first started out learning about cybersecurity. I never had so much fun learning!</h2> <br>
+
 Certificate for completing the course: <br>
   <img src="https://i.imgur.com/5KjjSKS.png" height="60%" width="70%" alt="cert"/> <br>
   
