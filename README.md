@@ -5,6 +5,7 @@ Certificate for completing the course: <br>
   <img src="https://i.imgur.com/5KjjSKS.png" height="60%" width="70%" alt="cert"/> <br>
   
 <h2>These are the courses that are part of this certificate: </h2>  <br>
+
 1. Foundations of Cybersecurity <br>
   <img src="https://i.imgur.com/NKF9oCT.png" height="60%" width="70%" alt="cert"/> <br>
   Skills: INFOSEC, Ethics in Cybersecurity, NIST CSF, Historical Attacks <br>
